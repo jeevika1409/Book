@@ -1,4 +1,4 @@
-package Example;
+
 
 public class BookSales {
     String salerName;
